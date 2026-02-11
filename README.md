@@ -1,7 +1,7 @@
 # Material – Free React Tailwind CSS Admin Dashboard Template
 #### Preview
 
- - [Demo](https://themewagon.github.io/material-dashboard-tailwind)
+ - [Demo](https://themewagon.github.io/material-tailwind-dashboard-react/)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/free-react-tailwind-css-admin-dashboard-template-material/)
